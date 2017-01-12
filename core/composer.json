@@ -1,0 +1,5 @@
+{
+        "require": {
+			"epicenterlabs/simple-mvc-ya" : "dev-master"
+        }
+}
